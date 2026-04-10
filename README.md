@@ -44,4 +44,3 @@ SUPABASE_SERVICE_ROLE_KEY=
 ```powershell
 python .\scripts\export_seed_sql.py
 ```
-
