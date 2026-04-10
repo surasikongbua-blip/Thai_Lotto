@@ -1,0 +1,15 @@
+.env
+.env.local
+.env.*.local
+.supabase/
+node_modules/
+dist/
+build/
+coverage/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+Thumbs.db
+
